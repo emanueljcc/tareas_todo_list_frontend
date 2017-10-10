@@ -1,0 +1,32 @@
+{
+  "name": "tareas_todo_list_frontend",
+  "version": "1.0.0",
+  "description": "frontend con angularjs para consumir api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emanueljcc/tareas_todo_list_frontend.git"
+  },
+  "author": "@emanueljcc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emanueljcc/tareas_todo_list_frontend/issues"
+  },
+  "homepage": "https://github.com/emanueljcc/tareas_todo_list_frontend#readme",
+  "private": true,
+  "devDependencies": {
+    "cssmin": "^0.4.3",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-scss": "^1.4.0",
+    "gulp-uncss": "^1.0.6",
+    "rename": "^1.0.4"
+  }
+}
